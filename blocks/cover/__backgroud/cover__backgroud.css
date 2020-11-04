@@ -1,0 +1,23 @@
+.cover__backgroud {
+  background-image: url('../../../images/cover-trains.jpg');
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  margin: auto;
+  position: relative;
+}
+
+.cover__backgroud:before{
+  content: '';
+  display: block;
+  padding-bottom: 62.5%;
+  background-color: #2A2C2F;
+  opacity: 0.3;
+}
+
+.cover__backgroud:hover{
+  background-color: #2A2C2F;
+  opacity: 0.8;
+}
+
