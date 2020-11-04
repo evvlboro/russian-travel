@@ -1,0 +1,29 @@
+.place__image {
+  max-width: 460px;
+  margin-top: 48px;
+  margin-right: 40px;
+}
+
+@media (max-width: 1024px) {
+  .place__image {
+    max-width: 440px;
+    margin-right: 32px;
+  }
+}
+
+@media (max-width: 823px) {
+  .place__image {
+    max-width: 340px;
+    margin-right: 28px;
+    margin-top: 48px;
+  }
+}
+
+@media (max-width: 425px) {
+  .place__image {
+    max-width: 320px;
+    margin-right: 0;
+    margin-top: 32px;
+  }
+}
+
