@@ -4,25 +4,25 @@
   padding-top: 92px;
 }
 
-@media screen and (min-width: 1024px) and (max-width:1279px) {
+@media (max-width:1280px) {
   .photo-grid {
     padding: 92px 48px 0;
   }
 }
 
-@media screen and (min-width: 768px) and (max-width:1023px) {
+@media (max-width:1024px) {
   .intro {
     padding: 88px 24px 0;
   }
 }
 
-@media screen and (min-width: 425px) and (max-width:767px) {
+@media (max-width:768px) {
   .intro {
     padding: 88px 24px 0;
   }
 }
 
-@media screen and (max-width:425px) {
+@media (max-width:425px) {
   .intro {
     padding: 64px 16px 0;
   }

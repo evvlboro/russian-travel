@@ -7,7 +7,7 @@
   font-weight: normal;
 }
 
-@media screen and (max-width: 320px) {
+@media (max-width: 320px) {
   .header__lang-link {
     font-size: 20px;
     line-height: 1.1;

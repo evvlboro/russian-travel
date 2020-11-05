@@ -5,13 +5,13 @@
   align-items: flex-end;
 }
 
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media (max-width: 768px) {
   .header {
     margin: 28px 24px 0;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .header {
     margin: 16px 16px 0;
   }

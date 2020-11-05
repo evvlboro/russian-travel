@@ -7,8 +7,13 @@
 */
 
 .photo-grid__item {
+  /*
+  **не знаю почему но не влазят картинки с такой шириной. поставлю другую
   width: 284px;
   height: 213px;
+  */
+  width: 279px;
+  height: 209px;
 }
 
 @media (max-width:1024px) {
@@ -20,8 +25,11 @@
 
 @media (max-width:768px) {
   .photo-grid__item {
+    /*Опять же не влазят почему-то. Ширина экрана 768px, а при этом ширина картики во весь экран 751px. Куда 17px деваются? Непонятно.
     width: 352px;
-    height: 264px;
+    height: 264px;*/
+    width: 343px;
+    height: 258px;
   }
 }
 
