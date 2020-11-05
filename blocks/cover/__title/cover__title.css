@@ -21,7 +21,7 @@
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 577px) {
   .cover__title{
     margin-top: 33px;
     width: 288px;

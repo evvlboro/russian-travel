@@ -11,28 +11,21 @@
   height: 213px;
 }
 
-@media screen and (min-width: 1024px) and (max-width:1279px) {
+@media (max-width:1024px) {
   .photo-grid__item {
     width: 300px;
     height: 225px;
   }
 }
 
-@media screen and (min-width: 768px) and (max-width:1023px) {
+@media (max-width:768px) {
   .photo-grid__item {
     width: 352px;
     height: 264px;
   }
 }
 
-@media screen and (min-width: 425px) and (max-width:767px) {
-  .photo-grid__item {
-    width: 352px;
-    height: 264px;
-  }
-}
-
-@media screen and (max-width:425px) {
+@media (max-width:425px) {
   .photo-grid__item {
     width: 288px;
     height: 216px;

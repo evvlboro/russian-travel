@@ -8,7 +8,7 @@
   color: #fff;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 577px) {
   .cover__subtitle{
     margin-top: 16px;
     width: 288px;

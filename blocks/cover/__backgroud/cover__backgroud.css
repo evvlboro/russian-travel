@@ -23,7 +23,7 @@
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 577px) {
   .cover__backgroud{
     height: 200px;
   }
