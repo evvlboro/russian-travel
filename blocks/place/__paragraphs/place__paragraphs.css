@@ -1,3 +1,9 @@
 .place__paragraphs{
   margin-top: 48px;
 }
+
+@media (max-width: 425px){
+  .place__paragraphs{
+    margin-top: 32px;
+  }
+}
