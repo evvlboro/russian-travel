@@ -7,10 +7,14 @@
   font-weight: normal;
 }
 
+.header__lang-link:hover {
+  opacity: 0.8;
+  transition: opacity .3s;
+}
+
 @media (max-width: 320px) {
   .header__lang-link {
     font-size: 20px;
     line-height: 1.1;
-    font-weight: normal;
   }
 }

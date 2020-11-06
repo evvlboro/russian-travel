@@ -16,12 +16,6 @@
   }
 }
 
-@media (max-width:768px) {
-  .intro {
-    padding: 88px 24px 0;
-  }
-}
-
 @media (max-width:425px) {
   .intro {
     padding: 64px 16px 0;

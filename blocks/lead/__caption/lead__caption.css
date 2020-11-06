@@ -7,6 +7,7 @@
   margin: 0;
   margin-top: 8px;
   max-width: 984px;
+  text-transform: uppercase;
 }
 
 @media screen and (min-width: 425px) and (max-width:984px) {
