@@ -10,13 +10,13 @@
   }
 }
 
-@media (max-width: 823px) {
+@media (max-width: 944px) {
   .place__website {
     margin-left: 28px;
   }
 }
 
-@media (max-width: 585px) {
+@media (max-width: 736px) {
   .place__website {
     display: none;
   }
